@@ -8,7 +8,7 @@ void main()
 	clrscr();
 	printf("\n enter first string:");
 	gets(s1);
-	printf("\m enter second string:");
+	printf("\n enter second string:");
 	gets(s2);
 	if(strcmp(s1,s2)==0)
 	{
